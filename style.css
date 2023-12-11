@@ -1,0 +1,37 @@
+h1{
+    background-color:rgb(43, 58, 226);
+    
+}
+body{
+    background-color:black;
+}
+*name{
+    font-size: larger;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color:black;
+    
+}
+form {
+    text-align:left;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color:rgb(192, 231, 255);
+    border:black;
+}
+div{
+    background-color:black;
+    color:white;
+    left:80px;
+    display:inline-block;
+}
+button{
+    border-radius: 1px;
+
+}
